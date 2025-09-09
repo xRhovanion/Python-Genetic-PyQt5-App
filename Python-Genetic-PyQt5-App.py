@@ -27,7 +27,7 @@ pip install PyQt5 matplotlib numpy biopython qdarkstyle
 
 Çalıştırma:
 
-python genetik_pyqt5_app.py
+Python-Genetic-PyQt5-App.py
 
 #### ENGLISH ####
 A PyQt5-based desktop application skeleton: load FASTA files, view sequences,
@@ -57,7 +57,7 @@ pip install PyQt5 matplotlib numpy biopython qdarkstyle
 
 Run:
 
-python genetik_pyqt5_app.py
+Python-Genetic-PyQt5-App.py
 """
 
 import sys
@@ -714,3 +714,4 @@ if __name__ == '__main__':
     win = MainWindow()
     win.show()
     sys.exit(app.exec_())
+
